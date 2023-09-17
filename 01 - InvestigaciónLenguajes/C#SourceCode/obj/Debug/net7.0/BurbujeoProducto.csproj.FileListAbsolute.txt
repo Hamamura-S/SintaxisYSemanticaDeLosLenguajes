@@ -1,0 +1,15 @@
+/home/santi/Escritorio/Cursada UTN2023/Sintaxis/Investigación/BurbujeoProducto/bin/Debug/net7.0/BurbujeoProducto
+/home/santi/Escritorio/Cursada UTN2023/Sintaxis/Investigación/BurbujeoProducto/bin/Debug/net7.0/BurbujeoProducto.deps.json
+/home/santi/Escritorio/Cursada UTN2023/Sintaxis/Investigación/BurbujeoProducto/bin/Debug/net7.0/BurbujeoProducto.runtimeconfig.json
+/home/santi/Escritorio/Cursada UTN2023/Sintaxis/Investigación/BurbujeoProducto/bin/Debug/net7.0/BurbujeoProducto.dll
+/home/santi/Escritorio/Cursada UTN2023/Sintaxis/Investigación/BurbujeoProducto/bin/Debug/net7.0/BurbujeoProducto.pdb
+/home/santi/Escritorio/Cursada UTN2023/Sintaxis/Investigación/BurbujeoProducto/obj/Debug/net7.0/BurbujeoProducto.csproj.AssemblyReference.cache
+/home/santi/Escritorio/Cursada UTN2023/Sintaxis/Investigación/BurbujeoProducto/obj/Debug/net7.0/BurbujeoProducto.GeneratedMSBuildEditorConfig.editorconfig
+/home/santi/Escritorio/Cursada UTN2023/Sintaxis/Investigación/BurbujeoProducto/obj/Debug/net7.0/BurbujeoProducto.AssemblyInfoInputs.cache
+/home/santi/Escritorio/Cursada UTN2023/Sintaxis/Investigación/BurbujeoProducto/obj/Debug/net7.0/BurbujeoProducto.AssemblyInfo.cs
+/home/santi/Escritorio/Cursada UTN2023/Sintaxis/Investigación/BurbujeoProducto/obj/Debug/net7.0/BurbujeoProducto.csproj.CoreCompileInputs.cache
+/home/santi/Escritorio/Cursada UTN2023/Sintaxis/Investigación/BurbujeoProducto/obj/Debug/net7.0/BurbujeoProducto.dll
+/home/santi/Escritorio/Cursada UTN2023/Sintaxis/Investigación/BurbujeoProducto/obj/Debug/net7.0/refint/BurbujeoProducto.dll
+/home/santi/Escritorio/Cursada UTN2023/Sintaxis/Investigación/BurbujeoProducto/obj/Debug/net7.0/BurbujeoProducto.pdb
+/home/santi/Escritorio/Cursada UTN2023/Sintaxis/Investigación/BurbujeoProducto/obj/Debug/net7.0/BurbujeoProducto.genruntimeconfig.cache
+/home/santi/Escritorio/Cursada UTN2023/Sintaxis/Investigación/BurbujeoProducto/obj/Debug/net7.0/ref/BurbujeoProducto.dll
