@@ -8,6 +8,5 @@
 
 ```
 --Repositorio público personal para la asignatura  
---Readme.md // Front page del usuario 
 ```
 
